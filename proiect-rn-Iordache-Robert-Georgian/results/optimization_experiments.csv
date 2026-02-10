@@ -1,0 +1,4 @@
+Experiment_Name,Architecture,Accuracy_S1,Smoothing
+Base_CNN,CNN1D_Basic,42.1%,None
+Experimental_V1,CNN1D_Improved,51.3%,Moving Average
+Final_Optimized,CNN1D_Improved,81.24%,Hysteresis (6)

@@ -1,0 +1,49 @@
+# ============================================
+# DEPENDENȚE PROIECT EMG GESTURE CLASSIFICATION
+# Python 3.10+
+# ============================================
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Procesare Semnale
+scipy>=1.10.0
+numpy>=1.24.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Vizualizare
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# GUI
+tk>=0.1.0
+pillow>=9.5.0
+
+# Citire Date MATLAB
+mat73>=0.62  # Pentru MATLAB v7.3+
+
+# Utils
+tqdm>=4.65.0
+pandas>=2.0.0
+
+# Optional - Pentru Export ONNX
+# onnx>=1.14.0
+# onnxruntime>=1.15.0
+
+# Optional - Pentru Logging
+# tensorboard>=2.13.0
+# wandb>=0.15.0
+
+# ============================================
+# INSTALARE:
+# pip install -r requirements.txt
+#
+# Pentru GPU (CUDA 12.0+):
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+#
+# Pentru ROCm (AMD):
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/rocm5.7
+# ============================================

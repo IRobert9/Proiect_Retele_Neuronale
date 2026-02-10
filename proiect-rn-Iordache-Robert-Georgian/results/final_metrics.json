@@ -1,0 +1,6 @@
+{
+    "final_accuracy_S1": 81.24,
+    "post_processing": "Hysteresis + Majority Vote",
+    "latency_ms": 50,
+    "status": "Ready for prosthesis control"
+}

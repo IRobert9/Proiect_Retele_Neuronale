@@ -1,0 +1,8 @@
+{
+    "stability_score": 0.92,
+    "common_misclassifications": [
+        "Power vs Lateral",
+        "Precision vs Special"
+    ],
+    "hysteresis_gain": "+22.5% accuracy increase"
+}

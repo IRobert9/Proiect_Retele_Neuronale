@@ -1,0 +1,21 @@
+# Final Optimized Configuration - Robert Iordache
+model_params:
+  architecture: "EMG_CNN1D_Improved"
+  input_channels: 7
+  num_classes: 6
+  dropout_rate: 0.3
+
+training_params:
+  optimizer: "Adam"
+  learning_rate: 0.001
+  batch_size: 64
+  epochs: 150 #
+
+post_processing:
+  method: "Hysteresis + Majority Vote"
+  hysteresis_threshold: 6 #
+  window_size: 10 #
+
+final_performance:
+  accuracy_S1: "81.24%" #
+  subject_id: "S1"
