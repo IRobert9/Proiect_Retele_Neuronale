@@ -8,8 +8,8 @@
 | **Grupa / Specializare** | 632AB / Informatică Industrială |
 | **Disciplina** | Rețele Neuronale |
 | **Instituție** | POLITEHNICA București – FIIR |
-| **Link Repository GitHub** | [URL-ul tău de GitHub] |
-| **Acces Repository** | Public / Privat (cu acces cadre didactice RN) |
+| **Link Repository GitHub** | [[URL-ul tău de GitHub]](https://github.com/IRobert9/Proiect_Retele_Neuronale.git) |
+| **Acces Repository** | Public |
 | **Stack Tehnologic** | Python (PyTorch, NumPy, Tkinter) |
 | **Domeniul Industrial de Interes (DII)** | Medical / Robotică (Sisteme de Control Mioelectric) |
 | **Tip Rețea Neuronală** | CNN 1D Improved |
@@ -625,3 +625,4 @@ Identificarea limitărilor este esențială pentru siguranța în exploatare a u
 ---
 
 *Acest README servește ca documentație principală pentru Livrabilul 1 (Aplicație RN). Pentru Livrabilul 2 (Prezentare PowerPoint), consultați structura din RN_Specificatii_proiect.pdf.*
+
