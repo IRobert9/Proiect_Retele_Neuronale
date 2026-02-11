@@ -1,4 +1,4 @@
-## 1. Identificare Proiect
+<img width="2673" height="414" alt="image" src="https://github.com/user-attachments/assets/4c7173c9-944b-4d67-b98e-124252f0bbef" />## 1. Identificare Proiect
 
 ---
 
@@ -574,6 +574,13 @@ Identificarea limitărilor este esențială pentru siguranța în exploatare a u
 2. **PyTorch Documentation**, 2025. *"torch.nn.Conv1d Layer Definition"*. URL: [https://pytorch.org/docs/stable/generated/torch.nn.Conv1d.html](https://pytorch.org/docs/stable/generated/torch.nn.Conv1d.html)
 3. **Farina, D., et al.**, 2014. *"The Extraction of Neural Information from the Surface EMG for the Control of Upper-Limb Prostheses"*. IEEE Xplore. URL: [https://ieeexplore.ieee.org/document/6822434](https://ieeexplore.ieee.org/document/6822434)
 4. **Hudgins, B., Parker, P. și Scott, R. N.**, 1993. *"A New Strategy for Multifunction Myoelectric Control"*. IEEE Transactions on Biomedical Engineering. URL: [https://ieeexplore.ieee.org/document/210224](https://ieeexplore.ieee.org/document/210224)
+5. Nina PRO DB2 URL: [https://ieeexplore.ieee.org/document/6822434](https://ninapro.hevs.ch/instructions/DB2.html)
+6. [https://ieeexplore.ieee.org/document/6822434](https://www.researchgate.net/publication/326742533_EMG_Pattern_Recognition_in_the_Era_of_Big_Data_and_Deep_Learning)
+7. [https://pubmed.ncbi.nlm.nih.gov/24760934/](https://pubmed.ncbi.nlm.nih.gov/24760934/)
+8. [https://docs.pytorch.org/docs/stable/index.html](https://docs.pytorch.org/docs/stable/index.html)
+9. [https://delsys.com/teaching-resources-for-an-introduction-to-electromyography-emg/](https://delsys.com/teaching-resources-for-an-introduction-to-electromyography-emg/)
+10. [https://ieeexplore.ieee.org/Xplore/dynhome.jsp?tag=1&tag=1](https://ieeexplore.ieee.org/Xplore/dynhome.jsp?tag=1&tag=1)
+11. [http://seniam.org/sensor_location.htm](http://seniam.org/sensor_location.htm)
 
 ---
 
